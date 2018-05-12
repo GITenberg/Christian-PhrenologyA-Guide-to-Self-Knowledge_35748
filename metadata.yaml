@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37875'
     url: http://www.gutenberg.org/2009/agents/37875
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35748#Christian-PhrenologyA-Guide-to-Self-Knowledge
 gutenberg_issued: '2011-04-01'
 gutenberg_type: Text
 identifiers:
